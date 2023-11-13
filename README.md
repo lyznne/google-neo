@@ -2,4 +2,4 @@
 neomorphism google styling
 
 
-[view (https://lyznne.github.io/google-neo/)]
+[👋👋, check it out !🎊  🎉🎉](https://lyznne.github.io/google-neo/)
