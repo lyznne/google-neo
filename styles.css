@@ -84,7 +84,8 @@ nav {
 .nav .lang {
     padding: var(--padd-sm);
     height: 35px;
-    width: 120px;
+    width: max-content;
+    overflow: hidden;
     justify-content: center;
     gap: var(--padd-sm);
     text-align: center;
@@ -157,7 +158,7 @@ nav {
 
 /* main container css  */
 .main-container {
-    height: 74dvh;
+    height: 74dvh !important;
     justify-content: center;
 }
 
